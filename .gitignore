@@ -19,3 +19,6 @@
 *.exe
 *.out
 *.app
+
+#config/db files
+config/database.ini
